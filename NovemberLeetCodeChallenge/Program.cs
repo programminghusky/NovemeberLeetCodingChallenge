@@ -10,6 +10,7 @@ namespace NovemberLeetCodeChallenge
     {
         static void Main(string[] args)
         {
+            Console.ReadLine();
         }
     }
 }
