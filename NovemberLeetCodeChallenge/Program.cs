@@ -10,6 +10,8 @@ namespace NovemberLeetCodeChallenge
     {
         static void Main(string[] args)
         {
+            Easy.MinimumCosttoMoveChipstoTheSamePosition min = new Easy.MinimumCosttoMoveChipstoTheSamePosition();
+            min.MinCostToMoveChips(new int[]{ 2, 2, 2, 3, 3});
             Console.ReadLine();
         }
     }

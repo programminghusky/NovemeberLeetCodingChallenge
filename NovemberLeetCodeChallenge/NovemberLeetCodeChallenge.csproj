@@ -46,6 +46,7 @@
     <Compile Include="Easy\ConsecutiveCharacters.cs" />
     <Compile Include="Easy\ConvertBinaryNumberToInteger.cs" />
     <Compile Include="Easy\MeetingRooms.cs" />
+    <Compile Include="Easy\MinimumCosttoMoveChipstoTheSamePosition.cs" />
     <Compile Include="Medium\InsertionSortList.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
