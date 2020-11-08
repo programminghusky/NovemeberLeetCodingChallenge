@@ -47,6 +47,7 @@
     <Compile Include="Easy\ConvertBinaryNumberToInteger.cs" />
     <Compile Include="Easy\MeetingRooms.cs" />
     <Compile Include="Easy\MinimumCosttoMoveChipstoTheSamePosition.cs" />
+    <Compile Include="Medium\AddTwoNumbersII.cs" />
     <Compile Include="Medium\FindtheSmallestDivisorGivenAThreshold.cs" />
     <Compile Include="Medium\InsertionSortList.cs" />
     <Compile Include="Program.cs" />
