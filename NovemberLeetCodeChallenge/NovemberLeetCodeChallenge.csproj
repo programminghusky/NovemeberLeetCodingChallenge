@@ -51,7 +51,7 @@
     <Compile Include="Easy\TwoSumLessThanK.cs" />
     <Compile Include="Medium\AddTwoNumbersII.cs" />
     <Compile Include="Medium\FindtheSmallestDivisorGivenAThreshold.cs" />
-    <Compile Include="Medium\InsertionSortList.cs" />
+    <Compile Include="Medium\PopulatingNextRightPointersinEachNode.cs" />
     <Compile Include="Medium\ValidSquare.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

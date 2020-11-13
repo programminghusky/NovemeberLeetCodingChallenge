@@ -10,6 +10,10 @@ namespace NovemberLeetCodeChallenge.Medium
 {
     class ValidSquare
     {
+        /*    public bool ValidSquare(int[] p1, int[] p2, int[] p3, int[] p4) 
+         *    {
+         *    return Check(p1, p2, p3, p4) || Check(p1, p2, p4, p3) || Check(p1, p3, p2, p4);
+         *    } */
         public bool ValidSquare1(int[] p1, int[] p2, int[] p3, int[] p4)
         {
             //return Check(p1, p2, p3, p4) || Check(p1, p2, p4, p3) || Check(p1, p3, p2, p4);
